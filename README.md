@@ -1,1 +1,1 @@
-# Simple calculator project using JS
+# Simple calculator JS project 
